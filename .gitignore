@@ -1,0 +1,16 @@
+build
+.kdev4/
+*.kdev4
+bin/
+.idea/
+
+
+.cproject
+.project
+.settings/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+*.ps
