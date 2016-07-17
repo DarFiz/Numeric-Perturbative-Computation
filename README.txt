@@ -10,6 +10,8 @@ numeryczny. Zagadnienie ma podłoże fizyczne - dotyczy poszukiwania
 rozwiązań zmodyfikowanego równania Einsteina. Efektem dzialania
 programu są rysunki generowane w PostScript-cie.
 
+Szczegółowy opis tła fizycznego w pdf-e "PhysicsBackground.pdf"
+
 
 2. Kompilacja 
 ******************************** 
